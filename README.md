@@ -41,7 +41,7 @@ Bu uygulama, yapay zeka teknolojisini kullanarak kedi ve köpek resimlerini sın
 
 Uygulamanın canlı demosunu Hugging Face üzerinden deneyebilirsiniz:
 
-[Kedi/Köpek Tahmin Uygulaması - Hugging Face](https://huggingface.co/spaces/yusufenes/Keras_CNN_Dog_or_Cat_Classification))
+[Kedi/Köpek Tahmin Uygulaması - Hugging Face](https://huggingface.co/spaces/yusufenes/Keras_CNN_Dog_or_Cat_Classification)
 
 ## 📸 Ekran Görüntüleri
 
