@@ -45,7 +45,9 @@ Uygulamanın canlı demosunu Hugging Face üzerinden deneyebilirsiniz:
 
 ## 📸 Ekran Görüntüleri
 
-[Buraya uygulamanızın ekran görüntülerini ekleyebilirsiniz]
+![image](https://github.com/user-attachments/assets/48067db7-c039-470c-b9af-0b515c0e70bb)
+
+![image](https://github.com/user-attachments/assets/ea1a2641-0c9d-49b0-a675-4f3bae7e3c70)
 
 ## 👨‍💻 Geliştirici
 
