@@ -22,7 +22,7 @@ Bu uygulama, yapay zeka teknolojisini kullanarak kedi ve köpek resimlerini sın
 
 1. Gerekli kütüphaneleri yükleyin:
    ```
-   pip install requriments.txt
+   pip install requirements.txt
    ```
 
 2. Modeli indirin ve proje klasörüne yerleştirin:
