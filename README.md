@@ -43,6 +43,10 @@ Uygulamanın canlı demosunu Hugging Face üzerinden deneyebilirsiniz:
 
 [Kedi/Köpek Tahmin Uygulaması - Hugging Face](https://huggingface.co/spaces/yusufenes/Keras_CNN_Dog_or_Cat_Classification)
 
+## 📂 Model Eğitim Projesi
+
+Modeli oluştururken kullandığım projenin detaylarına şu bağlantıdan ulaşabilirsiniz: [Keras-CNN-Dog-or-Cat-Classification](https://github.com/yusuffenes/Keras-CNN-Dog-or-Cat-Classification)
+
 ## 📸 Ekran Görüntüleri
 
 ![image](https://github.com/user-attachments/assets/48067db7-c039-470c-b9af-0b515c0e70bb)
@@ -57,10 +61,6 @@ Uygulamanın canlı demosunu Hugging Face üzerinden deneyebilirsiniz:
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-
-## 📂 Model Eğitim Projesi
-
-Modeli oluştururken kullandığım projenin detaylarına şu bağlantıdan ulaşabilirsiniz: [Keras-CNN-Dog-or-Cat-Classification](https://github.com/yusuffenes/Keras-CNN-Dog-or-Cat-Classification)
 
 ---
 
